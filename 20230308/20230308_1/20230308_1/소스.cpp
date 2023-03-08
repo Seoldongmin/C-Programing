@@ -4,9 +4,10 @@ int main(void)
 {
 
 
-	printf("test  Wn");
-
-	return 0;
+	printf("testWn"); //Wn line feed
+	printf("202315009Wn"); //Wn line feed
+	printf("dongmin SEOLWn"); //Wn line feed
+    return 0;
 }
 
 // ctrl+5 ´Â ½ÇÇà
