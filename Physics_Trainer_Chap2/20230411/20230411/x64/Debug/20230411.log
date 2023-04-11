@@ -1,0 +1,3 @@
+﻿  Physics_Trainer_Chap2.cpp
+C:\Users\MSI\Desktop\Physics_Trainer_Chap2\20230411\20230411\Physics_Trainer_Chap2.cpp(86,9): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  20230411.vcxproj -> C:\Users\MSI\Desktop\Physics_Trainer_Chap2\20230411\x64\Debug\20230411.exe
