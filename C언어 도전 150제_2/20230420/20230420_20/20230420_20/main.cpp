@@ -1,0 +1,9 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+void main()
+{
+	const char KOREA[] = "¥Î«—πŒ±π";
+
+	printf("%s\n", KOREA);
+}
