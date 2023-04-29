@@ -45,8 +45,7 @@ void Excersize_2_9(int solution, int answer)
         vf_m_s = vf * 1000 / 3600;
         answer1 = vf_m_s / zero_back1;
         printf("=========================   정답   =============================\n");
-        printf("따라서 가속도 a = %6.2lf m/s / %6.2lf s 입니다. \n", vf_m_s, zero_back1);
-        printf("그러므로 이 자동차의 가속도(a)는 %6.2lf m/s^2 입니다.\n", answer1);
+        printf("이 자동차의 가속도(a)는 %6.2lf m/s^2 입니다.\n", answer1);
         printf("=================================================================\n");
         printf("\n\n\n");
     }
@@ -67,8 +66,7 @@ void Excersize_2_9(int solution, int answer)
         vf_m_s = vf * 1000 / 3600;
         answer2 = vf_m_s / zero_back2;
         printf("=========================   정답   =============================\n");
-        printf("따라서 가속도 a = %6.2lf m/s / %6.2lf s 입니다. \n", vf_m_s, zero_back2);
-        printf("그러므로 이 자동차의 가속도(a)는 %6.2lf m/s^2 입니다.\n", answer2);
+        printf("이 자동차의 가속도(a)는 %6.2lf m/s^2 입니다.\n", answer2);
         printf("=================================================================\n\n\n");
         printf("\n\n\n");
     }
